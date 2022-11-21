@@ -6,7 +6,7 @@ print('Bem vindo ao WWE')
 sleep(1)
 neme1 = input('O nome do lutador 1 sera: ')
 neme2 = input('O nome do lutador 2 sera: ')
-print('ambos lutadores comessam com 15 de vida\nvamos ver quem ganhara essa luta')
+print('ambos lutadores começam com 15 de vida\nvamos ver quem ganhara essa luta')
 print('_-' * 20)
 sleep(1)
 
@@ -15,8 +15,8 @@ p2 = 15
 
 #luta
 while True:
-    dano1 = randint(1,6)
-    dano2 = randint(1,6)
+    dano1 = randint(1, 6)
+    dano2 = randint(1, 6)
     p1 -= dano1
     p2 -= dano2
 
