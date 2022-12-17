@@ -1,0 +1,76 @@
+intro = ('qual o tipo escolhido\n [1-Abijur / 2-Adiv / 3-Conv / 4-Encan / 5-Necro / 6-Trans] ')
+e = ['']
+
+a = ('=-'*20)
+
+#primeiro gral arcano
+a1c1 = ('')
+a1c2 = ('')
+a1c3 = ('')
+a1c4 = ('')
+a1c5 = ('')
+a1c6 = ('')
+#segundo gral arcano
+a2c1 = ('')
+a2c2 = ('')
+a2c3 = ('')
+a2c4 = ('')
+a2c5 = ('')
+a2c6 = ('')
+#terceiro gral arcano
+a3c1 = ('')
+a3c2 = ('')
+a3c3 = ('')
+a3c4 = ('')
+a3c5 = ('')
+a3c6 = ('')
+#quarto gral arcano
+a4c1 = ('')
+a4c2 = ('')
+a4c3 = ('')
+a4c4 = ('')
+a4c5 = ('')
+a4c6 = ('')
+#quinto gral arcano
+a5c1 = ('')
+a5c2 = ('')
+a5c3 = ('')
+a5c4 = ('')
+a5c5 = ('')
+a5c6 = ('')
+
+#primeiro gral divina
+d1v1 = ('1-Escudo da Fé(Protege uma criatura) \n2-Proteção Divina(Alvo recebe bônus em testes de reistência)\n3-Resistência a Energia(Fornece resistência contra um tipo de energia) \n4-Santuário(Inimigos devem passar num teste de vontade para atacá-lo) \n5-Suporte Ambiental(Ignora efeitos de temperatura e pode respirar na água) ')
+d1v2 = ('')
+d1v3 = ('')
+d1v4 = ('')
+d1v5 = ('')
+d1v6 = ('')
+#segundo gral divina
+d2v1 = ('')
+d2v2 = ('')
+d2v3 = ('')
+d2v4 = ('')
+d2v5 = ('')
+d2v6= ('')
+#terceiro gral divina
+d3v1 = ('')
+d3v2 = ('')
+d3v3 = ('')
+d3v4 = ('')
+d3v5 = ('')
+d3v6 = ('')
+#quarto gral divina
+d4v1 = ('')
+d4v2 = ('')
+d4v3 = ('')
+d4v4 = ('')
+d4v5 = ('')
+d4v6 = ('')
+#quinto gral divina
+d5v1 = ('')
+d5v2 = ('')
+d5v3 = ('')
+d5v4 = ('')
+d5v5 = ('')
+d5v6 = ('')
